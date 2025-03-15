@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 void vikas(int val) {
-    // int i = 1;
+    int i = 1;
     printf("hello world in my void function \n");
     printf("getting value from parent function \n");
     printf("and the value is %d \n", val);
-    // printf("%d %d %d\n", i++, i++, i);
+    printf("%d %d %d\n", i++, i++, i);
 
 }
 
